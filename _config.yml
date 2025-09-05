@@ -1,0 +1,20 @@
+title: "Matthew Mettler"
+description: "American political behavior; misinformation, media, judgment, and democratic accountability"
+# The built-in GitHub Pages theme (no build step needed)
+theme: minima
+# Set your site URL if using default GitHub Pages domain; update later if you add a custom domain
+url: "https://<your-username>.github.io"
+# Optional social links
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/<your-username>" }
+    - { platform: x,       user_url: "https://x.com/<your-handle>" }
+    - { platform: linkedin,user_url: "https://www.linkedin.com/in/<your-handle>" }
+
+# Navigation (minima 3)
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
