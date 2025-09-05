@@ -10,8 +10,8 @@ permalink: /research/
   
 - “When to Tolerate Immorality of Elected Officials and when not to.” With Yeowon Lim.
 
-
 - (Mis)Understanding the Other Side: How Americans Explain Opposing Views” With Matthew Hib- bing Jeffery Mondak, and Isaiah Raynal. (Under Review)
+
 ### Working papers
 
 - “A Multidimensional Approach to Measuring Misinformation.” With Jane Betchley, Alesha Lewis, and Jeffery Mondak.
