@@ -3,9 +3,6 @@ layout: home
 title: Matthew Mettler
 ---
 
-Welcome! I study American political behavior with a focus on how citizens navigate information environments, form judgments, and act within democratic systems.
+![Matthew Mettler](/assets/headshot.jpg){: style="max-width: 250px; border-radius: 50%; margin: 20px auto; display: block;"}
 
-- **Dissertation**: *Fact–Opinion Differentiation Among Citizens: The Role of Partisan Identity, Media Cues, and Cognitive Interventions*
-- **Interests**: misinformation, motivated reasoning, political psychology & communication, democratic accountability
-
-This site collects my research, publications, teaching materials, and CV.
+Welcome! I am a Ph.D candidate at the University of Illinois. I study American political behavior with a focus on how citizens navigate information environments, form judgments, and act within democratic systems.
