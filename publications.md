@@ -4,8 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-- Mettler, M., et al. (2025). Structural overlap in political judgments. *Social Science Quarterly*.
-- Mettler, M., et al. (2023). Evangelical support dynamics post-2016. *Politics & Religion*.
-- Mettler, M., et al. (2024). (If applicable) *Misinformation Review* entry.
 
-*For full citations and working papers, see the Research page.*
+- Kennedy McClinton, Matthew Mettler, and Jeffery Mondak. ”Conceptualizing and Measuring Struc- tural Overlap in the Political Attitudes and Orientations of Multidimensional Groups,” Social Science Quarterly, vol. 106(3), May 2025. 
+
+- Pagán-Márquez, Alondra, Paul A. Djupe, Matthew Mettler, and Jeffery Mondak. 2024. “Was There an Enthusiasm Gap? Examining Support for Donald Trump Among Evangelicals and Nonevangelicals.” Politics & Religion 17(3): 410–430. 
+
+- Mettler, Matthew, and Jeffery J. Mondak. 2024. “Fact-Opinion Differentiation.” Harvard Kennedy School Misinformation Review, 5(2). 
+
+- Gaines, Brian J., Jason Mazzone, Matthew Mettler, and Robin Fretwell Wilson. 2023. “Eviction Expectations in the Aftermath of the Pandemic Moratoria.” University of Illinois College of Law Legal Studies Research Paper 24-06.
+  
+- Gaines, Brian, Jason Mazzone, Matthew Mettler, and Robin Fretwell-Wilson. 2022. “Race and Evic- tion During the Pandemic.” Institute of Government and Public Affairs - Policy Spotlight.
+
+- Gaines, Brian, Jason Mazzone, Matthew Mettler, and Robin Fretwell-Wilson and Andrea Miller. 2022. “The Impact of COVID-19 on State Court Proceedings: Five Key Findings.” Institute of Government and Public Affairs - Policy Spotlight.
