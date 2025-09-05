@@ -4,12 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-### Works in Progress
-- **Mundane Misinformation** — Conceptualization and measurement of everyday information environments; modeling cognitive resources and affective partisan bias.
-- **Linguistic Markers as Intervention** — Using linguistic cues to improve citizen detection of political falsehoods; preregistered experiments.
-- **Biased Political Memory** — Do historical recollections introduce systematic bias into retrospective voting?
-- **Economic Perceptions & 2024** — Detecting systematic economic misinformation and downstream electoral effects.
+### Under review
 
-### Other Projects
-- **Democratic Backsliding & Cues** — When do citizens prioritize leader loyalty over democratic principles?
-- **Religion & Judgment** — Evangelicals and the rationalization of political judgments under moral dissonance.
+- “Indigenous Quotas and Symbolic Representation in Latin America.” With Damarys Canache, Nathan Knoll, and Jeffery Mondak, Revise and resubmit.
+  
+- “When to Tolerate Immorality of Elected Officials and when not to.” With Yeowon Lim.
+### Working papers
+
+
+- “A Multidimensional Approach to Measuring Misinformation.” With Jane Betchley, Alesha Lewis, and Jeffery Mondak.
+
+- “Elites Cues and Americans’ Support for Authoritarian World Leaders.” With Damarys Canache, and Jeffery Mondak.
+  
+- “A Targeted Lie Detection Approach to Political Misinformation.” With Jane Betchley, Alesha Lewis, and Jeffery Mondak.
+
+- “Court Perceptions: Do Police Experiences Affect Court Views?” With Emma Henderson, Jeffery Mondak, and Mark Peffley.
