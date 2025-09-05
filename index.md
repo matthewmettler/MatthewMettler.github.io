@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Matthew Mettler
+title: 
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
