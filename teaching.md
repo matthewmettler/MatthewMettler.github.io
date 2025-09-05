@@ -4,8 +4,5 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I’ve taught **Introduction to Politics** and **Introduction to American Politics** at UIUC and designed **Media & Politics** modules on Lippmann, Marcuse, indexing vs. cascading activation, and platform governance.
+I’ve taught **Introduction to Politics** and **Introduction to American Politics** and am currently teaching **Politics and the Media**. In addition, I have taught statistical programming and probability to incoming Ph.D. students during the graduate associations annual math course refresher. 
 
-Selected materials:
-- Syllabi (on request)
-- Lecture outlines and activities (Lippmann, Marcuse, media models)
