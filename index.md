@@ -11,7 +11,7 @@ title: Matthew Mettler
     <h2 style="margin: 10px 0 5px 0;">Matthew Mettler</h2>
     <p style="margin: 0;">
       <a href="https://scholar.google.com/citations?user=y3pMcNIAAAAJ" target="_blank">Google Scholar</a><br/>
-      <a href="mailto:mettler3@illinois.edu">YOUR.EMAIL@domain.com</a>
+      <a href="mailto:mettler3@illinois.edu">Email</a>
     </p>
   </div>
 
