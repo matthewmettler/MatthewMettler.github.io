@@ -5,7 +5,7 @@ permalink: /Research/
 ---
 <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
 
-  <div style="flex: 0 0 260px;">
+  <div style="flex: 0 0 450px;">
     <img src="/assets/research.png" alt="Matthew Mettler presenting research" style="width: 100%; border-radius: 8px;">
   </div>
     
