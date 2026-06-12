@@ -9,7 +9,6 @@ minima:
   social_links: []
 
 header_pages:
-  - about.md
   - research.md
   - publications.md
   - teaching.md
