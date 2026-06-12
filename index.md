@@ -16,14 +16,18 @@ title:
   </div>
 
   <!-- Right column: welcome text and paragraph -->
-  <div style="flex: 1;">
-    <h3>Welcome!</h3>
-    <p>
-      I am a scholar of American political behavior whose research explores how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation examines how partisan identity, cognitive resources, and media cues shape perceptions of fact and opinion, offering insights into the erosion of shared empirical foundations in civil discourse.
-    </p>
-    <p>
-      Beyond my dissertation, my research agenda spans several projects on misinformation, including work on conceptualizing and measuring the multidimensional structure of political information and misinformation, linguistic markers of political falsehoods as interventions to combat misinformation, political memory biases, and economic recollections and perceptions during election cycles. I have co-authored a book manuscript that provides a systematic account of how citizens justify their own policy preferences and whether they can articulate the best arguments for the opposing side, offering a novel perspective on the quality of democratic reasoning. My broader work investigates democratic backsliding, religious influences on political judgment, and individual perceptions of institutions, with particular attention to how experiences spill over across institutional domains and how institutional reforms shape symbolic and substantive representation. My research has been published in <em>Misinformation Review</em>, <em>Politics & Religion</em>, and <em>Social Science Quarterly</em>.
-    </p>
-  </div>
+<div style="flex: 1;">
+  <h3>Welcome!</h3>
 
+  <p>
+    I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
+  </p>
+
+  <p>
+    My broader research agenda spans political behavior and political methodology. Across several projects, I study how citizens respond to political information, how they remember and evaluate governing performance, and how their judgments shape democratic accountability. This work includes research on the multidimensional structure of mass response tendencies on information tasks, the relationship between citizens’ understanding of unemployment and inflation and their sociotropic economic perceptions, and the implications of those perceptions for voting. Additional projects examine retrospective voting beyond the domain of economic performance, how religious voters reconcile candidates’ moral standing with their own beliefs, citizens’ capacity to act as democratic guardrails against undemocratic leaders, and the role of negativity predispositions in political judgment.
+  </p>
+
+  <p>
+    My research has been published in <em>Temple University Press</em>, <em>Journal of Law and Courts</em>, <em>Journal of Politics in Latin America</em>, <em>Misinformation Review</em>, <em>Politics & Religion</em>, and <em>Social Science Quarterly</em>.
+  </p>
 </div>

@@ -18,7 +18,7 @@ communication technologies, and factors shaping the construction
 and selection of news reports such as journalistic routines, 
 media economics, and the strategic management of news by political 
 actors.
-[Download the Politics and the Media Fall 2025 syllabus](/assets/p_m_syllabus.pdf)
+- [Download the Politics and the Media Fall 2025 syllabus](/assets/p_m_syllabus.pdf)
 
 
 ## **Introduction to American Politics** - Spring 2025 University of Illinois
@@ -27,8 +27,9 @@ By the end of the course, students will be able to:
 - Clearly articulate the structure, function, origins, and evolution of the political institutions of the US
 - Explain the US electoral process and the basic role of citizen-government interactions in shaping electoral outcomes
 - Identify and elaborate on core factors that give rise to variation in political attitudes, shape sociopolitical identity in the US, and that influence the effectiveness of citizens as drivers of democratic process
-[Politics and the Media Fall 2025 syllabus](/assets/PS101_Syllabus.pdf)
-[Politics and the Media Course Evaluations](/assets/312_reviews.pdf)
+
+- [Politics and the Media Fall 2025 syllabus](/assets/PS101_Syllabus.pdf)
+- [Politics and the Media Course Evaluations](/assets/312_reviews.pdf)
 
 
 
@@ -46,8 +47,8 @@ scientific research and how it can be used to inform thinking about
 pressing political issues. At the end of the course, you should have 
 a working knowledge of core political science concepts and be able 
 to apply those concepts to real-world problems.
-[Introduction to Political Science Fall 2024 syllabus](/assets/100_syllabus.pdf)
-[Introduction to Political Science Course Evaluations](/assets/course_eval_100.pdf)
+- [Introduction to Political Science Fall 2024 syllabus](/assets/100_syllabus.pdf)
+- [Introduction to Political Science Course Evaluations](/assets/course_eval_100.pdf)
 
 
 ## **University of Illinois-Political Science Math Camp**
