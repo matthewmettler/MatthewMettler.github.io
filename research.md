@@ -5,7 +5,7 @@ permalink: /Research/
 ---
 
 
-<img src="/assets/research.png" alt="Matthew Mettler presenting research" style="float: right; width: 500px; max-width: 45%; margin: 0 0 1.5rem 2rem; border-radius: 8px;">
+<img src="/assets/research.png" alt="Matthew Mettler presenting research" style="float: right; width: 600px; max-width: 50%; margin: 0 0 1.5rem 2rem; border-radius: 8px;">
 
   
 I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
@@ -14,8 +14,7 @@ My broader research agenda spans political behavior and political methodology. A
 
 <div style="clear: both;"></div>
 
-# Working Papers
-
+## Working Papers
 
 ## Conceptualizing and Measuring the Multidimensional Structure of Mass Response Tendencies
 - Abstract: Conceptualizations of information status in the mass public often differentiate between the states of being informed, misinformed, and uninformed. Acknowledgment of this conceptual multidimensionality has helped spark valuable exploration of the nature and significance of political misinformation. Despite this multidimensional structure, empirical research on information status typically employs unidimensional measurement and estimation approaches. To facilitate alignment of conceptual, measurement, and modeling strategies, we develop and test an integrated multidimensional strategy. We implement and explore this strategy with data drawn from 2019 and 2024 U.S. national surveys on which respondents were asked to assess the veracity of public claims by prominent Democrats and Republicans. Our exercises show the integrated approach is easily implemented and supports valid inferences about information status. Substantive implications emerge regarding the forms of information response and the scope, antecedents, and symmetry of partisan response bias. 
