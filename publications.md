@@ -3,11 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Book
+##Books
 
 Hibbing, J., **Mettler, M.**, Mondak, J., & Raynal, I. (forthcoming). Misunderstanding the other side: How Americans explain opposing views. Temple University Press.
 
-Peer-Reviewed Journal Articles
+##Peer-Reviewed Journal Articles
 
 -Henderson, E., **Mettler, M.**, Mondak, J., & Peffley, M. (2026). Experiential spillover in public views of police and courts. Journal of Law and Courts. [View online](https://doi.org/10.1017/jlc.2026.10013).
 
@@ -19,7 +19,7 @@ Peer-Reviewed Journal Articles
 
 -Mettler, M., & Mondak, J. (2024). Fact–opinion differentiation. Harvard Kennedy School Misinformation Review, 5(2). [View online](https://misinforeview.hks.harvard.edu/article/fact-opinion-differentiation/).
 
-Policy Reports and other publications
+##Policy Reports and other publications
 
 -Gaines, B. J., Mazzone, J., **Mettler, M.**, & Wilson, R. F. (2023). Eviction expectations in the aftermath of the pandemic moratoria. University of Illinois College of Law Legal Studies Research Paper No. 24-06.
 
