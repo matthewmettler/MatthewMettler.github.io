@@ -5,8 +5,9 @@ permalink: /Research/
 ---
 
 
-<img src="/assets/research.png" alt="Matthew Mettler presenting research" style="float: right; width: 600px; max-width: 50%; margin: 0 0 1.5rem 2rem; border-radius: 8px;">
-
+<img src="/assets/research.png" 
+     alt="Matthew Mettler presenting research" 
+     style="float: right; width: 700px; max-width: 58%; aspect-ratio: 1 / 1; object-fit: cover; margin: 0 0 1.5rem 2rem; border-radius: 4px;">
   
 I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
 
