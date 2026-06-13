@@ -3,16 +3,14 @@ layout: home
 title: 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div>
 
-  <!-- Left column: headshot and name -->
-  <div style="flex: 0 0 320px; text-align: center;">
-    <img src="/assets/headshot.jpg" alt="Matthew Mettler" style="width: 320px; max-width: 100%; border-radius: 0; margin-bottom: 10px;" />
-    <h2 style="margin: 10px 0 5px 0;">Matthew Mettler</h2>
-  </div>
+  <img src="/assets/headshot.jpg" 
 
-  <!-- Right column: welcome text and paragraph -->
-<div style="flex: 1;">
+       alt="Matthew Mettler" 
+
+       style="width: 320px; max-width: 100%; border-radius: 0; margin: 0 30px 20px 0; float: left;" />
+
   <h3>About</h3>
 
   <p>
