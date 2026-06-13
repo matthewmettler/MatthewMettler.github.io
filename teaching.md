@@ -4,9 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## **Instructor of record**
+### **Instructor of record**
 
-## **Politics and the Media** - Fall 2025 University of Illinois
+#### **Politics and the Media** - Fall 2025 University of Illinois
 This course examines the processes of 
 mass-mediated political communication in democratic societies. 
 Although these processes can be studied in a variety of contexts, 
@@ -19,9 +19,9 @@ and selection of news reports such as journalistic routines,
 media economics, and the strategic management of news by political 
 actors.
 - [Download the Politics and the Media Fall 2025 syllabus](/assets/p_m_syllabus.pdf)
+- [Politics and the Media Course Evaluations](/assets/312_reviews.pdf)
 
-
-## **Introduction to American Politics** - Spring 2025 University of Illinois
+#### **Introduction to American Politics** - Spring 2025 University of Illinois
 This course is intended to provide students with an introduction to US government and politics and their study. We will engage with the constitutional and philosophical foundations of the US political system, explore the institutional organization and logic of US government, examine the workings of the US electoral system and the ways in which the government and electorate are connected, and interrogate the individual and group factors that shape political behavior in the US.
 By the end of the course, students will be able to:
 - Clearly articulate the structure, function, origins, and evolution of the political institutions of the US
@@ -29,11 +29,11 @@ By the end of the course, students will be able to:
 - Identify and elaborate on core factors that give rise to variation in political attitudes, shape sociopolitical identity in the US, and that influence the effectiveness of citizens as drivers of democratic process
 
 - [Politics and the Media Fall 2025 syllabus](/assets/PS101_Syllabus.pdf)
-- [Politics and the Media Course Evaluations](/assets/312_reviews.pdf)
 
 
 
-## **Introduction to Politics** - Fall 2024 University of Illinois
+
+#### **Introduction to Politics** - Fall 2024 University of Illinois
 What is power, who gets it, and why? 
 How do American voters decide who to vote for? How do political 
 institutions vary across countries? When do countries go to war? 
@@ -51,7 +51,7 @@ to apply those concepts to real-world problems.
 - [Introduction to Political Science Course Evaluations](/assets/course_eval_100.pdf)
 
 
-## **University of Illinois-Political Science Math Camp**
+#### **University of Illinois-Political Science Math Camp**
 This session introduces foundational concepts in probability, 
 set theory, random variables, and distributions. 
 Students begin with sets, sample spaces, events, and basic 
@@ -68,6 +68,6 @@ The session concludes with the normal distribution,
 the Central Limit Theorem, standard errors, z-scores, 
 and the use of R to simulate and evaluate probabilistic claims.
 
-[Probability and R programming](/assets/Probability.pdf)
+- [Probability and R programming](/assets/Probability.pdf)
 
 

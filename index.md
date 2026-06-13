@@ -3,21 +3,17 @@ layout: home
 title: 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-  <!-- Left column: headshot, name, links -->
-  <div style="flex: 0 0 220px; text-align: center;">
-    <img src="/assets/headshot.jpg" alt="Matthew Mettler" style="max-width: 200px; border-radius: 50%; margin-bottom: 10px;" />
+  <!-- Left column: headshot and name -->
+  <div style="flex: 0 0 320px; text-align: center;">
+    <img src="/assets/headshot.jpg" alt="Matthew Mettler" style="width: 320px; max-width: 100%; border-radius: 0; margin-bottom: 10px;" />
     <h2 style="margin: 10px 0 5px 0;">Matthew Mettler</h2>
-    <p style="margin: 0;">
-      <a href="https://scholar.google.com/citations?user=y3pMcNIAAAAJ" target="_blank">Google Scholar</a><br/>
-      <a href="mailto:mettler3@illinois.edu">Email</a>
-    </p>
   </div>
 
   <!-- Right column: welcome text and paragraph -->
 <div style="flex: 1;">
-  <h3>Welcome!</h3>
+  <h3>About</h3>
 
   <p>
     I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
