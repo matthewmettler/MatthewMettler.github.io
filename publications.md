@@ -3,6 +3,35 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<style>
+
+.pub-entry {
+
+  margin-bottom: 2rem;
+
+  line-height: 1.6;
+
+}
+
+.pub-entry em {
+
+  font-style: italic;
+
+}
+
+.pub-entry a {
+
+  font-size: 0.95em;
+
+}
+
+hr {
+
+  margin: 2rem 0;
+
+}
+
+</style>
 
 ## Book
 

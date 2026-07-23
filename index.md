@@ -14,7 +14,13 @@ title:
   <h1>About</h1>
 
   <p>
-    I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
+    I am a scholar of American political behavior whose 
+    research examines how citizens navigate information environments, 
+    form political judgments, and fulfill their democratic roles. 
+    My dissertation investigates how partisan identity, cognitive resources, 
+    and media environments shape perceptions of fact and opinion. 
+    By examining how political motivation influences the classification of 
+    empirical claims, this project offers insight into the erosion of shared     factual foundations in democratic discourse.
   </p>
 
   <p>
@@ -22,6 +28,6 @@ title:
   </p>
 
   <p>
-    My research has been published in <em>Temple University Press</em>, <em>Journal of Law and Courts</em>, <em>Journal of Politics in Latin America</em>, <em>Harvard Kennedy School Misinformation Review</em>, <em>Politics & Religion</em>, and <em>Social Science Quarterly</em>.
+    My research has been published in , <em>Journal of Law and Courts</em>, <em>Journal of Politics in Latin America</em>, <em>Harvard Kennedy School Misinformation Review</em>, <em>Politics & Religion</em>, and <em>Social Science Quarterly</em>, and a forthcoming book from <em>Temple University Press</em>.
   </p>
 </div>
