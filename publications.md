@@ -3,30 +3,85 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-### Books
 
-Hibbing, J., **Mettler, M.**, Mondak, J., & Raynal, I. (forthcoming). Misunderstanding the other side: How Americans explain opposing views. Temple University Press.
+## Book
 
-### Peer-Reviewed Journal Articles
+<div class="pub-entry">
+  Hibbing, J., <strong>Mettler, M.</strong>, Mondak, J., & Raynal, I.
+  <br>
+  <em>Misunderstanding the Other Side: How Americans Explain Opposing Views.</em>
+  Temple University Press (forthcoming).
+</div>
 
-- Henderson, E., **Mettler, M.**, Mondak, J., & Peffley, M. (2026). Experiential spillover in public views of police and courts. Journal of Law and Courts. [View online](https://doi.org/10.1017/jlc.2026.10013).
+---
 
-- Canache, D., Knoll, N., **Mettler, M.**, & Mondak, J. (2025). Indigenous quotas and symbolic representation in Latin America. Journal of Politics in Latin America. [View online](https://doi.org/10.1177/1866802X251395092).
+## Peer-Reviewed Journal Articles
 
-- McClinton, K., **Mettler, M.**, & Mondak, J. (2025). Conceptualizing and measuring structural overlap in the political attitudes and orientations of multidimensional groups. Social Science Quarterly, 106(3).[View online](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70038).
+<div class="pub-entry">
+  Henderson, E., <strong>Mettler, M.</strong>, Mondak, J., & Peffley, M. (2026).
+  Experiential spillover in public views of police and courts.
+  <em>Journal of Law and Courts.</em>
+  <a href="https://doi.org/10.1017/jlc.2026.10013" target="_blank">DOI</a>
+</div>
 
-- Pagán-Márquez, A., Djupe, P., **Mettler, M.**, & Mondak, J. (2024). Was there an enthusiasm gap? Examining support for Donald Trump among evangelicals and nonevangelicals. Politics & Religion, 17(3), 410–430. [View online](https://www.cambridge.org/core/journals/politics-and-religion/article/was-there-an-enthusiasm-gap-examining-support-for-donald-trump-among-evangelicals-and-nonevangelicals/D319FB9EBE711124A00CD3730B33B8C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark).
+<div class="pub-entry">
+  Canache, D., Knoll, N., <strong>Mettler, M.</strong>, & Mondak, J. (2025).
+  Indigenous quotas and symbolic representation in Latin America.
+  <em>Journal of Politics in Latin America.</em>
+  <a href="https://doi.org/10.1177/1866802X251395092" target="_blank">DOI</a>
+</div>
 
-- Mettler, M., & Mondak, J. (2024). Fact–opinion differentiation. Harvard Kennedy School Misinformation Review, 5(2). [View online](https://misinforeview.hks.harvard.edu/article/fact-opinion-differentiation/).
+<div class="pub-entry">
+  McClinton, K., <strong>Mettler, M.</strong>, & Mondak, J. (2025).
+  Conceptualizing and measuring structural overlap in the political attitudes and orientations of multidimensional groups.
+  <em>Social Science Quarterly, 106</em>(3).
+  <a href="https://onlinelibrary.wiley.com/doi/10.1111/ssqu.70038" target="_blank">DOI</a>
+</div>
 
-### Policy Reports and other publications
+<div class="pub-entry">
+  Pagán-Márquez, A., Djupe, P., <strong>Mettler, M.</strong>, & Mondak, J. (2024).
+  Was there an enthusiasm gap? Examining support for Donald Trump among evangelicals and nonevangelicals.
+  <em>Politics & Religion, 17</em>(3), 410–430.
+  <a href="https://www.cambridge.org/core/journals/politics-and-religion/article/was-there-an-enthusiasm-gap-examining-support-for-donald-trump-among-evangelicals-and-nonevangelicals/D319FB9EBE711124A00CD3730B33B8C4" target="_blank">DOI</a>
+</div>
 
-- Gaines, B. J., Mazzone, J., **Mettler, M.**, & Wilson, R. F. (2023). Eviction expectations in the aftermath of the pandemic moratoria. University of Illinois College of Law Legal Studies Research Paper No. 24-06.
+<div class="pub-entry">
+  Mettler, M., & Mondak, J. (2024).
+  Fact–opinion differentiation.
+  <em>Harvard Kennedy School Misinformation Review, 5</em>(2).
+  <a href="https://misinforeview.hks.harvard.edu/article/fact-opinion-differentiation/" target="_blank">Article</a>
+</div>
 
-- Gaines, B. J., Mazzone, J., **Mettler, M.**, & Wilson, R. F. (2023). Texas’ movement to online court is sensible, but more study should follow. Voice for the Defense, 20–22.
+---
 
-- Gaines, B., Mazzone, J., **Mettler, M.**, & Fretwell-Wilson, R. (2022). Race and eviction during the pandemic. Institute of Government and Public Affairs — Policy Spotlight.
+## Policy Reports and Other Publications
 
-- Gaines, B., Mazzone, J., **Mettler, M.**, & Fretwell-Wilson, R. (2022). Courts and the housing market. News-Gazette.
+<div class="pub-entry">
+  Gaines, B. J., Mazzone, J., <strong>Mettler, M.</strong>, & Wilson, R. F. (2023).
+  Eviction expectations in the aftermath of the pandemic moratoria.
+  <em>University of Illinois College of Law Legal Studies Research Paper No. 24-06.</em>
+</div>
 
-- Gaines, B., Mazzone, J., **Mettler, M.**, Fretwell-Wilson, R., & Miller, A. (2022). The impact of COVID-19 on state court proceedings: Five key findings. Institute of Government and Public Affairs — Policy Spotlight.
+<div class="pub-entry">
+  Gaines, B. J., Mazzone, J., <strong>Mettler, M.</strong>, & Wilson, R. F. (2023).
+  Texas' movement to online court is sensible, but more study should follow.
+  <em>Voice for the Defense</em>, 20–22.
+</div>
+
+<div class="pub-entry">
+  Gaines, B., Mazzone, J., <strong>Mettler, M.</strong>, & Fretwell-Wilson, R. (2022).
+  Race and eviction during the pandemic.
+  <em>Institute of Government and Public Affairs Policy Spotlight.</em>
+</div>
+
+<div class="pub-entry">
+  Gaines, B., Mazzone, J., <strong>Mettler, M.</strong>, & Fretwell-Wilson, R. (2022).
+  Courts and the housing market.
+  <em>News-Gazette.</em>
+</div>
+
+<div class="pub-entry">
+  Gaines, B., Mazzone, J., <strong>Mettler, M.</strong>, Fretwell-Wilson, R., & Miller, A. (2022).
+  The impact of COVID-19 on state court proceedings: Five key findings.
+  <em>Institute of Government and Public Affairs Policy Spotlight.</em>
+</div>
