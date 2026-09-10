@@ -5,10 +5,6 @@ permalink: /Research/
 ---
 
 
-<img src="/assets/research.png" 
-     alt="Matthew Mettler presenting research" 
-     style="float: right; width: 600px; max-width: 58%; aspect-ratio: 1 / 1; object-fit: cover; margin: 0 0 1.5rem 2rem; border-radius: 4px;">
-  
 <p>
   I am a scholar of American political behavior and public policy who studies how citizens form political judgments and how those judgments both shape and are shaped by governance. My research examines how citizens interpret political information when evaluating leaders, policies, and democratic institutions, as well as how their encounters with public policies and institutions shape their attitudes, experiences, and behavior. I draw on theories of political psychology, communication, and policy feedback, using surveys, experiments, and quantitative measurement to study these questions.
 </p>
