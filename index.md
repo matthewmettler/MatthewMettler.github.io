@@ -9,12 +9,12 @@ title:
 
        alt="Matthew Mettler" 
 
-       style="width: 350px; max-width: 100%; border-radius: 0; margin: 0 30px 20px 0; float: left;" />
+       style="width: 300px; max-width: 100%; border-radius: 0; margin: 0 30px 20px 0; float: left;" />
 
   <h1>About</h1>
 
 <p>
-  I am a Ph.D. candidate in the Department of Political Science at the University of Illinois Urbana-Champaign. I study American political behavior, public policy, and political methodology. Drawing on theories of political psychology, communication, and policy feedback, I pursue three connected lines of inquiry: I develop measures of political judgment and use them to study how citizens respond to political information; examine how citizens’ memories, perceptions, and evaluations shape political preferences; and analyze how encounters with public policies and institutions affect political attitudes and behavior.
+  I am a Ph.D. candidate in the Department of Political Science at the University of Illinois Urbana-Champaign. I study political behavior, public policy, and political methodology. I pursue three connected lines of inquiry: I develop measures of political judgment and use them to study mass political attitudes and knowledge; examine how citizens’ memories, perceptions, and evaluations shape political preferences and behavior; and analyze how encounters with public policies and institutions affect political attitudes and behavior.
 </p>
 
 <p>
