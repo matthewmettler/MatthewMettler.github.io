@@ -7,7 +7,7 @@ permalink: /cv/
 
 <object
 
-  data="/assets/Matthew_Mettler_CV.pdf"
+  data="/assets/Mettler_CV.pdf"
 
   type="application/pdf"
 
