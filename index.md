@@ -9,7 +9,7 @@ title:
 
        alt="Matthew Mettler" 
 
-       style="width: 300px; max-width: 100%; border-radius: 0; margin: 0 30px 20px 0; float: left;" />
+       style="width: 400px; max-width: 100%; border-radius: 0; margin: 0 30px 20px 0; float: left;" />
 
   <h1>About</h1>
 
