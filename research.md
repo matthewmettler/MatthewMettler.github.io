@@ -9,9 +9,17 @@ permalink: /Research/
      alt="Matthew Mettler presenting research" 
      style="float: right; width: 600px; max-width: 58%; aspect-ratio: 1 / 1; object-fit: cover; margin: 0 0 1.5rem 2rem; border-radius: 4px;">
   
-I am a scholar of American political behavior whose research examines how citizens navigate information environments, form political judgments, and fulfill their democratic roles. My dissertation investigates how partisan identity, cognitive resources, and media environments shape perceptions of fact and opinion. By examining how political motivation influences the classification of empirical claims, this project offers insight into the erosion of shared factual foundations in democratic discourse.
+<p>
+  I am a scholar of American political behavior and public policy who studies how citizens form political judgments and how those judgments both shape and are shaped by governance. My research examines how citizens interpret political information when evaluating leaders, policies, and democratic institutions, as well as how their encounters with public policies and institutions shape their attitudes, experiences, and behavior. I draw on theories of political psychology, communication, and policy feedback, using surveys, experiments, and quantitative measurement to study these questions.
+</p>
 
-My broader research agenda spans political behavior and political methodology. Across several projects, I study how citizens respond to political information, how they remember and evaluate governing performance, and how their judgments shape democratic accountability. This work includes research on the multidimensional structure of mass response tendencies on information tasks, the relationship between citizens’ understanding of unemployment and inflation and their sociotropic economic perceptions, and the implications of those perceptions for voting. Additional projects examine retrospective voting beyond the domain of economic performance, how religious voters reconcile candidates’ moral standing with their own beliefs, citizens’ capacity to act as democratic guardrails against undemocratic leaders, and the role of negativity predispositions in political judgment.
+<p>
+  My dissertation develops a multidimensional approach to measuring political judgment in information tasks. Rather than treating performance as only correct or incorrect, I distinguish judgmental accuracy, partisan response bias, and residual responding. I apply this framework to fact–opinion classification, examining how partisan identity, cognitive resources, and source cues shape whether citizens recognize political claims as empirically verifiable. This approach helps identify when apparent differences in performance reflect knowledge, partisan-consistent responding, or other response tendencies.
+</p>
+
+<p>
+  My broader research connects political judgment to democratic accountability and policy feedback. I examine how citizens use political evidence, remember past events, compare economic performance across presidential administrations, and respond to elite cues. Related projects investigate how public policies, institutional representation, and personal encounters with government shape public opinion, institutional trust, and political participation.
+</p>
 
 <div style="clear: both;"></div>
 
