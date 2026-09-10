@@ -5,7 +5,7 @@ title:
 
 <div>
 
-  <img src="/assets/headshot.jpg" 
+  <img src="/assets/headshot.jpg?v=20260910" 
 
        alt="Matthew Mettler" 
 
