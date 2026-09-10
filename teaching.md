@@ -50,7 +50,7 @@ to apply those concepts to real-world problems.
 - [Introduction to Political Science Fall 2024 syllabus](/assets/100_syllabus.pdf)
 
 
-#### **University of Illinois-Political Science Math Camp**
+#### **Political Science Math Camp** - University of Illinois
 This session introduces foundational concepts in probability, 
 set theory, random variables, and distributions. 
 Students begin with sets, sample spaces, events, and basic 
