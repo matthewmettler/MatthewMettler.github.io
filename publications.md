@@ -38,7 +38,7 @@ hr {
 <div class="pub-entry">
   Hibbing, J., <strong>Mettler, M.</strong>, Mondak, J., & Raynal, I.
   <br>
-  <em>Misunderstanding the Other Side: How Americans Explain Opposing Views.</em>
+  <em>Misunderstanding the Other Side: How Americans Explain Opposing Political Views.</em>
   Temple University Press (Forthcoming).
 </div>
 
