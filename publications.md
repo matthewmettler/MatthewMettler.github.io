@@ -56,7 +56,7 @@ hr {
 <div class="pub-entry">
   Canache, D., Knoll, N., <strong>Mettler, M.</strong>, & Mondak, J. (2025).
   Indigenous quotas and symbolic representation in Latin America.
-  <em>Journal of Politics in Latin America.</em>
+  <em>Journal of Politics in Latin America, 18(3), 361-384.</em>
   <a href="https://doi.org/10.1177/1866802X251395092" target="_blank">View Online</a>
 </div>
 
